@@ -1,3 +1,13 @@
 # Hello-World
 My first repository
-这个文件的作用就是知道你改变代码Code的原因，以及当时的想法
+width =17
+height =12.0
+try:
+    number1 =width//2
+except:
+    number1 =-1
+number2 =width/2.0
+number3 =height/3
+print(number1,type(number1))
+print(number2,type(number2))
+print(number3,type(number3))
